@@ -128,6 +128,10 @@ The project uses a component-based architecture on the server for attaching beha
 
 UI components are built with React and organized by feature. Story files (`.story.tsx`) are provided for component development and testing.
 
+## Experiments
+
+The `experiments/` directories contain prototype implementations and experimental features that may be integrated into the main codebase in the future.
+
 ---
 
 *For questions or contributions, refer to the project structure above to locate relevant files.*
