@@ -10,3 +10,9 @@ export const XP_MULTIPLIER = 1.5;
 export const CURRENCY_REWARD_BASE = 10;
 export const CURRENCY_REWARD_MULTIPLIER = 2;
 
+export const NETWORK_TIMEOUT = 10;
+export const MAX_RETRY_ATTEMPTS = 3;
+
+export const ANIMATION_DURATION = 0.3;
+export const UI_TRANSITION_TIME = 0.2;
+
