@@ -10,3 +10,11 @@ export function isPositiveInteger(value: number): boolean {
 	return value > 0 && value === math.floor(value);
 }
 
+export function isWithinRange(value: number, min: number, max: number): boolean {
+	return value >= min && value <= max;
+}
+
+export function isEmpty(value: string | undefined): boolean {
+	return value === undefined || value === "" || value.size() === 0;
+}
+
