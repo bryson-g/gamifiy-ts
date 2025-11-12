@@ -16,3 +16,7 @@ export const MAX_RETRY_ATTEMPTS = 3;
 export const ANIMATION_DURATION = 0.3;
 export const UI_TRANSITION_TIME = 0.2;
 
+export const CACHE_TTL = 300;
+export const RATE_LIMIT_WINDOW = 60;
+export const RATE_LIMIT_MAX_REQUESTS = 100;
+
