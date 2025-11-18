@@ -116,6 +116,8 @@ TypeScript definitions for system instances are located in `types/` and provide 
 npm install          # Install dependencies
 npm run build       # Compile TypeScript
 npm run watch       # Watch mode for development
+npm run lint        # Run linter
+npm run format      # Format code
 ```
 
 ## Component Systems
